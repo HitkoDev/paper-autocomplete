@@ -1,6 +1,5 @@
 {
   "name": "paper-autocomplete",
-  "flat": true,
   "version": "4.0.0",
   "description": "Paper autocomplete element.",
   "contributors": [
